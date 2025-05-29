@@ -34,5 +34,4 @@ pip install torch torchvision timm torchaudio librosa scikit-learn matplotlib
 ## Author
 Sanghoon Lee  
 Chaeeun Kyung
-
 Stony Brook University
