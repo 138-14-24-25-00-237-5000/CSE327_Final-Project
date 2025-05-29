@@ -1,4 +1,4 @@
-# CSE327: Respiratory Sound Classification with CNN and ViT
+# CSE327: Respiratory Sound Classification with ViT and CNN
 
 This repository contains two deep learning projects for respiratory sound classification using audio spectrograms. The tasks are implemented in PyTorch and involve both Convolutional Neural Networks (CNNs) and Vision Transformers (ViT).
 
